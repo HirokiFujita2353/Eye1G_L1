@@ -61,7 +61,7 @@
 "7800","Native",3,41,"spillover2","fp","spillover2 fp",7,0,249,249,"Ambiguous","Inconsistent",249
 "7802","Native",3,27,"spillover2","fp","spillover2 fp",5,1,0,NA,"Ambiguous","Consistent",NA
 "7804","Native",3,29,"spillover2","fp","spillover2 fp",7,0,437,437,"Ambiguous","Inconsistent",437
-"7806","Native",3,46,"spillover2","fp","spillover2 fp",8,0,946,946,"Unambiguous","Inconsistent",946
+"7806","Native",3,46,"spillover2","fp","spillover2 fp",8,0,688,688,"Unambiguous","Inconsistent",688
 "7808","Native",3,28,"spillover2","fp","spillover2 fp",6,0,211,211,"Unambiguous","Consistent",211
 "7810","Native",3,35,"spillover2","fp","spillover2 fp",5,0,579,579,"Ambiguous","Consistent",579
 "7812","Native",3,45,"spillover2","fp","spillover2 fp",7,0,232,232,"Ambiguous","Inconsistent",232
@@ -137,7 +137,7 @@
 "7952","Native",6,48,"spillover2","fp","spillover2 fp",5,0,225,225,"Ambiguous","Consistent",225
 "7954","Native",6,28,"spillover2","fp","spillover2 fp",5,0,138,138,"Ambiguous","Consistent",138
 "7956","Native",6,31,"spillover2","fp","spillover2 fp",8,0,132,132,"Unambiguous","Inconsistent",132
-"7958","Native",6,46,"spillover2","fp","spillover2 fp",7,0,394,394,"Ambiguous","Inconsistent",394
+"7958","Native",6,46,"spillover2","fp","spillover2 fp",7,0,168,168,"Ambiguous","Inconsistent",168
 "7960","Native",6,40,"spillover2","fp","spillover2 fp",5,1,0,NA,"Ambiguous","Consistent",NA
 "7962","Native",6,42,"spillover2","fp","spillover2 fp",7,0,126,126,"Ambiguous","Inconsistent",126
 "7964","Native",6,45,"spillover2","fp","spillover2 fp",6,0,145,145,"Unambiguous","Consistent",145
@@ -167,7 +167,7 @@
 "8011","Native",7,25,"spillover2","fp","spillover2 fp",7,0,466,466,"Ambiguous","Inconsistent",466
 "8013","Native",7,31,"spillover2","fp","spillover2 fp",5,0,233,233,"Ambiguous","Consistent",233
 "8015","Native",7,37,"spillover2","fp","spillover2 fp",7,0,413,413,"Ambiguous","Inconsistent",413
-"8018","Native",8,46,"spillover2","fp","spillover2 fp",5,0,842,842,"Ambiguous","Consistent",842
+"8018","Native",8,46,"spillover2","fp","spillover2 fp",5,0,390,390,"Ambiguous","Consistent",390
 "8020","Native",8,41,"spillover2","fp","spillover2 fp",8,0,246,246,"Unambiguous","Inconsistent",246
 "8022","Native",8,39,"spillover2","fp","spillover2 fp",6,0,380,380,"Unambiguous","Consistent",380
 "8024","Native",8,35,"spillover2","fp","spillover2 fp",6,0,336,336,"Unambiguous","Consistent",336
@@ -210,7 +210,7 @@
 "8097","Native",9,43,"spillover2","fp","spillover2 fp",7,0,146,146,"Ambiguous","Inconsistent",146
 "8099","Native",9,44,"spillover2","fp","spillover2 fp",8,1,0,NA,"Unambiguous","Inconsistent",NA
 "8101","Native",9,45,"spillover2","fp","spillover2 fp",5,0,404,404,"Ambiguous","Consistent",404
-"8103","Native",9,46,"spillover2","fp","spillover2 fp",6,0,468,468,"Unambiguous","Consistent",468
+"8103","Native",9,46,"spillover2","fp","spillover2 fp",6,0,363,363,"Unambiguous","Consistent",363
 "8105","Native",9,30,"spillover2","fp","spillover2 fp",6,0,217,217,"Unambiguous","Consistent",217
 "8107","Native",9,25,"spillover2","fp","spillover2 fp",5,0,359,359,"Ambiguous","Consistent",359
 "8109","Native",9,41,"spillover2","fp","spillover2 fp",5,0,185,185,"Ambiguous","Consistent",185
@@ -234,7 +234,7 @@
 "8145","Native",10,48,"spillover2","fp","spillover2 fp",5,0,359,359,"Ambiguous","Consistent",359
 "8147","Native",10,27,"spillover2","fp","spillover2 fp",8,0,146,146,"Unambiguous","Inconsistent",146
 "8149","Native",10,35,"spillover2","fp","spillover2 fp",8,0,816,816,"Unambiguous","Inconsistent",816
-"8151","Native",10,46,"spillover2","fp","spillover2 fp",7,0,959,959,"Ambiguous","Inconsistent",959
+"8151","Native",10,46,"spillover2","fp","spillover2 fp",7,0,832,832,"Ambiguous","Inconsistent",832
 "8153","Native",10,38,"spillover2","fp","spillover2 fp",7,0,304,304,"Ambiguous","Inconsistent",304
 "8155","Native",10,34,"spillover2","fp","spillover2 fp",7,0,500,500,"Ambiguous","Inconsistent",500
 "8157","Native",10,44,"spillover2","fp","spillover2 fp",5,0,201,201,"Ambiguous","Consistent",201
@@ -319,7 +319,7 @@
 "8316","Native",14,45,"spillover2","fp","spillover2 fp",5,0,169,169,"Ambiguous","Consistent",169
 "8318","Native",14,25,"spillover2","fp","spillover2 fp",5,0,192,192,"Ambiguous","Consistent",192
 "8320","Native",14,48,"spillover2","fp","spillover2 fp",8,0,748,748,"Unambiguous","Inconsistent",748
-"8322","Native",14,46,"spillover2","fp","spillover2 fp",6,0,753,753,"Unambiguous","Consistent",753
+"8322","Native",14,46,"spillover2","fp","spillover2 fp",6,0,413,413,"Unambiguous","Consistent",413
 "8324","Native",14,33,"spillover2","fp","spillover2 fp",5,0,188,188,"Ambiguous","Consistent",188
 "8326","Native",14,26,"spillover2","fp","spillover2 fp",6,0,151,151,"Unambiguous","Consistent",151
 "8328","Native",14,37,"spillover2","fp","spillover2 fp",5,0,211,211,"Ambiguous","Consistent",211
@@ -351,7 +351,7 @@
 "8379","Native",15,30,"spillover2","fp","spillover2 fp",7,0,222,222,"Ambiguous","Inconsistent",222
 "8381","Native",15,48,"spillover2","fp","spillover2 fp",5,0,387,387,"Ambiguous","Consistent",387
 "8383","Native",15,45,"spillover2","fp","spillover2 fp",6,0,356,356,"Unambiguous","Consistent",356
-"8385","Native",15,46,"spillover2","fp","spillover2 fp",7,0,991,991,"Ambiguous","Inconsistent",991
+"8385","Native",15,46,"spillover2","fp","spillover2 fp",7,0,612,612,"Ambiguous","Inconsistent",612
 "8387","Native",15,37,"spillover2","fp","spillover2 fp",6,0,183,183,"Unambiguous","Consistent",183
 "8389","Native",15,36,"spillover2","fp","spillover2 fp",5,0,198,198,"Ambiguous","Consistent",198
 "8391","Native",15,29,"spillover2","fp","spillover2 fp",6,0,185,185,"Unambiguous","Consistent",185
@@ -471,7 +471,7 @@
 "8619","Native",20,43,"spillover2","fp","spillover2 fp",5,0,233,233,"Ambiguous","Consistent",233
 "8621","Native",20,33,"spillover2","fp","spillover2 fp",7,0,501,501,"Ambiguous","Inconsistent",501
 "8623","Native",20,41,"spillover2","fp","spillover2 fp",7,0,215,215,"Ambiguous","Inconsistent",215
-"8625","Native",20,46,"spillover2","fp","spillover2 fp",8,0,587,587,"Unambiguous","Inconsistent",587
+"8625","Native",20,46,"spillover2","fp","spillover2 fp",8,0,457,457,"Unambiguous","Inconsistent",457
 "8627","Native",20,39,"spillover2","fp","spillover2 fp",5,0,253,253,"Ambiguous","Consistent",253
 "8629","Native",20,35,"spillover2","fp","spillover2 fp",5,0,588,588,"Ambiguous","Consistent",588
 "8631","Native",20,31,"spillover2","fp","spillover2 fp",5,0,200,200,"Ambiguous","Consistent",200
@@ -497,7 +497,7 @@
 "8672","Native",21,25,"spillover2","fp","spillover2 fp",8,0,492,492,"Unambiguous","Inconsistent",492
 "8674","Native",21,37,"spillover2","fp","spillover2 fp",8,0,414,414,"Unambiguous","Inconsistent",414
 "8676","Native",21,27,"spillover2","fp","spillover2 fp",6,0,198,198,"Unambiguous","Consistent",198
-"8678","Native",21,46,"spillover2","fp","spillover2 fp",5,0,546,546,"Ambiguous","Consistent",546
+"8678","Native",21,46,"spillover2","fp","spillover2 fp",5,0,124,124,"Ambiguous","Consistent",124
 "8680","Native",21,42,"spillover2","fp","spillover2 fp",5,0,170,170,"Ambiguous","Consistent",170
 "8682","Native",21,45,"spillover2","fp","spillover2 fp",8,0,200,200,"Unambiguous","Inconsistent",200
 "8684","Native",21,35,"spillover2","fp","spillover2 fp",6,0,418,418,"Unambiguous","Consistent",418
@@ -577,7 +577,7 @@
 "8832","Native",24,26,"spillover2","fp","spillover2 fp",7,0,547,547,"Ambiguous","Inconsistent",547
 "8834","Native",25,48,"spillover2","fp","spillover2 fp",6,0,191,191,"Unambiguous","Consistent",191
 "8836","Native",25,28,"spillover2","fp","spillover2 fp",6,0,262,262,"Unambiguous","Consistent",262
-"8838","Native",25,46,"spillover2","fp","spillover2 fp",8,0,1071,1071,"Unambiguous","Inconsistent",1071
+"8838","Native",25,46,"spillover2","fp","spillover2 fp",8,0,622,622,"Unambiguous","Inconsistent",622
 "8840","Native",25,27,"spillover2","fp","spillover2 fp",5,0,100,100,"Ambiguous","Consistent",100
 "8842","Native",25,25,"spillover2","fp","spillover2 fp",7,0,202,202,"Ambiguous","Inconsistent",202
 "8844","Native",25,43,"spillover2","fp","spillover2 fp",5,0,475,475,"Ambiguous","Consistent",475
@@ -639,7 +639,7 @@
 "8955","Native",27,30,"spillover2","fp","spillover2 fp",6,0,99,99,"Unambiguous","Consistent",99
 "8957","Native",27,45,"spillover2","fp","spillover2 fp",5,0,393,393,"Ambiguous","Consistent",393
 "8959","Native",27,43,"spillover2","fp","spillover2 fp",7,0,201,201,"Ambiguous","Inconsistent",201
-"8961","Native",27,46,"spillover2","fp","spillover2 fp",6,0,1221,1221,"Unambiguous","Consistent",NA
+"8961","Native",27,46,"spillover2","fp","spillover2 fp",6,0,592,592,"Unambiguous","Consistent",592
 "8963","Native",27,42,"spillover2","fp","spillover2 fp",6,0,324,324,"Unambiguous","Consistent",324
 "8965","Native",27,39,"spillover2","fp","spillover2 fp",7,0,368,368,"Ambiguous","Inconsistent",368
 "8967","Native",27,29,"spillover2","fp","spillover2 fp",5,0,550,550,"Ambiguous","Consistent",550
@@ -687,7 +687,7 @@
 "9052","Native",29,31,"spillover2","fp","spillover2 fp",5,0,214,214,"Ambiguous","Consistent",214
 "9054","Native",29,36,"spillover2","fp","spillover2 fp",6,0,286,286,"Unambiguous","Consistent",286
 "9056","Native",29,38,"spillover2","fp","spillover2 fp",8,0,270,270,"Unambiguous","Inconsistent",270
-"9058","Native",29,46,"spillover2","fp","spillover2 fp",8,0,1292,1292,"Unambiguous","Inconsistent",NA
+"9058","Native",29,46,"spillover2","fp","spillover2 fp",8,0,1128,1128,"Unambiguous","Inconsistent",NA
 "9060","Native",29,39,"spillover2","fp","spillover2 fp",5,0,224,224,"Ambiguous","Consistent",224
 "9062","Native",29,35,"spillover2","fp","spillover2 fp",5,0,174,174,"Ambiguous","Consistent",174
 "9064","Native",29,41,"spillover2","fp","spillover2 fp",7,0,244,244,"Ambiguous","Inconsistent",244
@@ -702,7 +702,7 @@
 "9082","Native",30,30,"spillover2","fp","spillover2 fp",5,0,122,122,"Ambiguous","Consistent",122
 "9084","Native",30,41,"spillover2","fp","spillover2 fp",8,0,340,340,"Unambiguous","Inconsistent",340
 "9086","Native",30,31,"spillover2","fp","spillover2 fp",6,0,140,140,"Unambiguous","Consistent",140
-"9088","Native",30,46,"spillover2","fp","spillover2 fp",5,0,626,626,"Ambiguous","Consistent",626
+"9088","Native",30,46,"spillover2","fp","spillover2 fp",5,0,430,430,"Ambiguous","Consistent",430
 "9090","Native",30,27,"spillover2","fp","spillover2 fp",6,1,0,NA,"Unambiguous","Consistent",NA
 "9092","Native",30,43,"spillover2","fp","spillover2 fp",6,0,286,286,"Unambiguous","Consistent",286
 "9094","Native",30,37,"spillover2","fp","spillover2 fp",8,0,358,358,"Unambiguous","Inconsistent",358
@@ -809,7 +809,7 @@
 "9295","Native",34,34,"spillover2","fp","spillover2 fp",5,0,251,251,"Ambiguous","Consistent",251
 "9297","Native",34,35,"spillover2","fp","spillover2 fp",6,0,313,313,"Unambiguous","Consistent",313
 "9299","Native",34,37,"spillover2","fp","spillover2 fp",8,0,397,397,"Unambiguous","Inconsistent",397
-"9301","Native",34,46,"spillover2","fp","spillover2 fp",5,0,524,524,"Ambiguous","Consistent",524
+"9301","Native",34,46,"spillover2","fp","spillover2 fp",5,0,334,334,"Ambiguous","Consistent",334
 "9303","Native",34,36,"spillover2","fp","spillover2 fp",7,0,258,258,"Ambiguous","Inconsistent",258
 "9305","Native",34,33,"spillover2","fp","spillover2 fp",8,0,222,222,"Unambiguous","Inconsistent",222
 "9307","Native",34,42,"spillover2","fp","spillover2 fp",5,0,223,223,"Ambiguous","Consistent",223
@@ -825,7 +825,7 @@
 "9328","Native",35,33,"spillover2","fp","spillover2 fp",8,0,594,594,"Unambiguous","Inconsistent",594
 "9330","Native",35,29,"spillover2","fp","spillover2 fp",8,0,188,188,"Unambiguous","Inconsistent",188
 "9332","Native",35,41,"spillover2","fp","spillover2 fp",8,0,174,174,"Unambiguous","Inconsistent",174
-"9334","Native",35,46,"spillover2","fp","spillover2 fp",5,0,808,808,"Ambiguous","Consistent",808
+"9334","Native",35,46,"spillover2","fp","spillover2 fp",5,0,440,440,"Ambiguous","Consistent",440
 "9336","Native",35,45,"spillover2","fp","spillover2 fp",8,0,324,324,"Unambiguous","Inconsistent",324
 "9338","Native",35,39,"spillover2","fp","spillover2 fp",6,0,196,196,"Unambiguous","Consistent",196
 "9340","Native",35,28,"spillover2","fp","spillover2 fp",7,0,310,310,"Ambiguous","Inconsistent",310
@@ -865,7 +865,7 @@
 "9408","Native",36,48,"spillover2","fp","spillover2 fp",8,0,390,390,"Unambiguous","Inconsistent",390
 "9410","Native",37,26,"spillover2","fp","spillover2 fp",7,0,193,193,"Ambiguous","Inconsistent",193
 "9412","Native",37,45,"spillover2","fp","spillover2 fp",6,0,352,352,"Unambiguous","Consistent",352
-"9414","Native",37,46,"spillover2","fp","spillover2 fp",7,0,943,943,"Ambiguous","Inconsistent",NA
+"9414","Native",37,46,"spillover2","fp","spillover2 fp",7,0,437,437,"Ambiguous","Inconsistent",437
 "9416","Native",37,43,"spillover2","fp","spillover2 fp",8,0,386,386,"Unambiguous","Inconsistent",386
 "9418","Native",37,31,"spillover2","fp","spillover2 fp",8,0,256,256,"Unambiguous","Inconsistent",256
 "9420","Native",37,29,"spillover2","fp","spillover2 fp",6,0,178,178,"Unambiguous","Consistent",178
@@ -917,7 +917,7 @@
 "9511","Native",39,34,"spillover2","fp","spillover2 fp",5,0,851,851,"Ambiguous","Consistent",851
 "9513","Native",39,31,"spillover2","fp","spillover2 fp",6,0,254,254,"Unambiguous","Consistent",254
 "9515","Native",39,39,"spillover2","fp","spillover2 fp",6,0,481,481,"Unambiguous","Consistent",481
-"9517","Native",39,46,"spillover2","fp","spillover2 fp",5,0,647,647,"Ambiguous","Consistent",647
+"9517","Native",39,46,"spillover2","fp","spillover2 fp",5,0,455,455,"Ambiguous","Consistent",455
 "9519","Native",39,40,"spillover2","fp","spillover2 fp",7,0,175,175,"Ambiguous","Inconsistent",175
 "9521","Native",39,43,"spillover2","fp","spillover2 fp",6,0,479,479,"Unambiguous","Consistent",479
 "9523","Native",39,47,"spillover2","fp","spillover2 fp",6,0,1007,1007,"Unambiguous","Consistent",1007
@@ -956,6 +956,6 @@
 "9590","Native",40,29,"spillover2","fp","spillover2 fp",5,1,0,NA,"Ambiguous","Consistent",NA
 "9592","Native",40,33,"spillover2","fp","spillover2 fp",5,0,152,152,"Ambiguous","Consistent",152
 "9594","Native",40,44,"spillover2","fp","spillover2 fp",8,0,159,159,"Unambiguous","Inconsistent",159
-"9596","Native",40,46,"spillover2","fp","spillover2 fp",6,0,286,286,"Unambiguous","Consistent",286
+"9596","Native",40,46,"spillover2","fp","spillover2 fp",6,0,159,159,"Unambiguous","Consistent",159
 "9598","Native",40,41,"spillover2","fp","spillover2 fp",5,0,119,119,"Ambiguous","Consistent",119
 "9600","Native",40,35,"spillover2","fp","spillover2 fp",7,0,187,187,"Ambiguous","Inconsistent",187

@@ -3,7 +3,7 @@
 "32643","Native",1,39,"wrap_up","tt","wrap_up tt",7,0,343,343,"Ambiguous","Inconsistent",343
 "32645","Native",1,26,"wrap_up","tt","wrap_up tt",6,0,503,503,"Unambiguous","Consistent",503
 "32647","Native",1,34,"wrap_up","tt","wrap_up tt",6,0,672,672,"Unambiguous","Consistent",672
-"32649","Native",1,46,"wrap_up","tt","wrap_up tt",6,1,0,NA,"Unambiguous","Consistent",NA
+"32649","Native",1,46,"wrap_up","tt","wrap_up tt",6,0,459,459,"Unambiguous","Consistent",459
 "32651","Native",1,29,"wrap_up","tt","wrap_up tt",5,0,424,424,"Ambiguous","Consistent",424
 "32653","Native",1,36,"wrap_up","tt","wrap_up tt",8,0,1163,1163,"Unambiguous","Inconsistent",1163
 "32655","Native",1,30,"wrap_up","tt","wrap_up tt",6,0,542,542,"Unambiguous","Consistent",542
@@ -61,7 +61,7 @@
 "32760","Native",3,41,"wrap_up","tt","wrap_up tt",7,0,317,317,"Ambiguous","Inconsistent",317
 "32762","Native",3,27,"wrap_up","tt","wrap_up tt",5,0,536,536,"Ambiguous","Consistent",536
 "32764","Native",3,29,"wrap_up","tt","wrap_up tt",7,0,704,704,"Ambiguous","Inconsistent",704
-"32766","Native",3,46,"wrap_up","tt","wrap_up tt",8,1,0,NA,"Unambiguous","Inconsistent",NA
+"32766","Native",3,46,"wrap_up","tt","wrap_up tt",8,0,258,258,"Unambiguous","Inconsistent",258
 "32768","Native",3,28,"wrap_up","tt","wrap_up tt",6,0,350,350,"Unambiguous","Consistent",350
 "32770","Native",3,35,"wrap_up","tt","wrap_up tt",5,0,220,220,"Ambiguous","Consistent",220
 "32772","Native",3,45,"wrap_up","tt","wrap_up tt",7,0,537,537,"Ambiguous","Inconsistent",537
@@ -98,7 +98,7 @@
 "32833","Native",5,39,"wrap_up","tt","wrap_up tt",7,0,448,448,"Ambiguous","Inconsistent",448
 "32835","Native",5,33,"wrap_up","tt","wrap_up tt",5,0,162,162,"Ambiguous","Consistent",162
 "32837","Native",5,30,"wrap_up","tt","wrap_up tt",6,0,213,213,"Unambiguous","Consistent",213
-"32839","Native",5,46,"wrap_up","tt","wrap_up tt",6,1,0,NA,"Unambiguous","Consistent",NA
+"32839","Native",5,46,"wrap_up","tt","wrap_up tt",6,0,173,173,"Unambiguous","Consistent",173
 "32841","Native",5,25,"wrap_up","tt","wrap_up tt",5,0,370,370,"Ambiguous","Consistent",370
 "32843","Native",5,42,"wrap_up","tt","wrap_up tt",6,0,452,452,"Unambiguous","Consistent",452
 "32845","Native",5,41,"wrap_up","tt","wrap_up tt",5,0,379,379,"Ambiguous","Consistent",379
@@ -137,7 +137,7 @@
 "32912","Native",6,48,"wrap_up","tt","wrap_up tt",5,0,280,280,"Ambiguous","Consistent",280
 "32914","Native",6,28,"wrap_up","tt","wrap_up tt",5,0,161,161,"Ambiguous","Consistent",161
 "32916","Native",6,31,"wrap_up","tt","wrap_up tt",8,0,280,280,"Unambiguous","Inconsistent",280
-"32918","Native",6,46,"wrap_up","tt","wrap_up tt",7,1,0,NA,"Ambiguous","Inconsistent",NA
+"32918","Native",6,46,"wrap_up","tt","wrap_up tt",7,0,108,108,"Ambiguous","Inconsistent",108
 "32920","Native",6,40,"wrap_up","tt","wrap_up tt",5,0,468,468,"Ambiguous","Consistent",468
 "32922","Native",6,42,"wrap_up","tt","wrap_up tt",7,0,245,245,"Ambiguous","Inconsistent",245
 "32924","Native",6,45,"wrap_up","tt","wrap_up tt",6,0,135,135,"Unambiguous","Consistent",135
@@ -156,7 +156,7 @@
 "32949","Native",7,47,"wrap_up","tt","wrap_up tt",5,0,1227,1227,"Ambiguous","Consistent",1227
 "32951","Native",7,42,"wrap_up","tt","wrap_up tt",8,0,1139,1139,"Unambiguous","Inconsistent",1139
 "32953","Native",7,29,"wrap_up","tt","wrap_up tt",7,0,141,141,"Ambiguous","Inconsistent",141
-"32955","Native",7,46,"wrap_up","tt","wrap_up tt",8,1,0,NA,"Unambiguous","Inconsistent",NA
+"32955","Native",7,46,"wrap_up","tt","wrap_up tt",8,0,334,334,"Unambiguous","Inconsistent",334
 "32957","Native",7,36,"wrap_up","tt","wrap_up tt",6,0,1624,1624,"Unambiguous","Consistent",1624
 "32959","Native",7,39,"wrap_up","tt","wrap_up tt",5,0,517,517,"Ambiguous","Consistent",517
 "32961","Native",7,48,"wrap_up","tt","wrap_up tt",6,0,417,417,"Unambiguous","Consistent",417
@@ -167,7 +167,7 @@
 "32971","Native",7,25,"wrap_up","tt","wrap_up tt",7,0,327,327,"Ambiguous","Inconsistent",327
 "32973","Native",7,31,"wrap_up","tt","wrap_up tt",5,0,355,355,"Ambiguous","Consistent",355
 "32975","Native",7,37,"wrap_up","tt","wrap_up tt",7,0,202,202,"Ambiguous","Inconsistent",202
-"32978","Native",8,46,"wrap_up","tt","wrap_up tt",5,1,0,NA,"Ambiguous","Consistent",NA
+"32978","Native",8,46,"wrap_up","tt","wrap_up tt",5,0,452,452,"Ambiguous","Consistent",452
 "32980","Native",8,41,"wrap_up","tt","wrap_up tt",8,0,290,290,"Unambiguous","Inconsistent",290
 "32982","Native",8,39,"wrap_up","tt","wrap_up tt",6,0,277,277,"Unambiguous","Consistent",277
 "32984","Native",8,35,"wrap_up","tt","wrap_up tt",6,1,0,NA,"Unambiguous","Consistent",NA
@@ -210,7 +210,7 @@
 "33057","Native",9,43,"wrap_up","tt","wrap_up tt",7,0,721,721,"Ambiguous","Inconsistent",721
 "33059","Native",9,44,"wrap_up","tt","wrap_up tt",8,0,875,875,"Unambiguous","Inconsistent",875
 "33061","Native",9,45,"wrap_up","tt","wrap_up tt",5,0,518,518,"Ambiguous","Consistent",518
-"33063","Native",9,46,"wrap_up","tt","wrap_up tt",6,1,0,NA,"Unambiguous","Consistent",NA
+"33063","Native",9,46,"wrap_up","tt","wrap_up tt",6,0,105,105,"Unambiguous","Consistent",105
 "33065","Native",9,30,"wrap_up","tt","wrap_up tt",6,0,304,304,"Unambiguous","Consistent",304
 "33067","Native",9,25,"wrap_up","tt","wrap_up tt",5,0,421,421,"Ambiguous","Consistent",421
 "33069","Native",9,41,"wrap_up","tt","wrap_up tt",5,0,291,291,"Ambiguous","Consistent",291
@@ -234,7 +234,7 @@
 "33105","Native",10,48,"wrap_up","tt","wrap_up tt",5,0,325,325,"Ambiguous","Consistent",325
 "33107","Native",10,27,"wrap_up","tt","wrap_up tt",8,1,0,NA,"Unambiguous","Inconsistent",NA
 "33109","Native",10,35,"wrap_up","tt","wrap_up tt",8,0,316,316,"Unambiguous","Inconsistent",316
-"33111","Native",10,46,"wrap_up","tt","wrap_up tt",7,1,0,NA,"Ambiguous","Inconsistent",NA
+"33111","Native",10,46,"wrap_up","tt","wrap_up tt",7,0,312,312,"Ambiguous","Inconsistent",312
 "33113","Native",10,38,"wrap_up","tt","wrap_up tt",7,0,86,86,"Ambiguous","Inconsistent",86
 "33115","Native",10,34,"wrap_up","tt","wrap_up tt",7,1,0,NA,"Ambiguous","Inconsistent",NA
 "33117","Native",10,44,"wrap_up","tt","wrap_up tt",5,0,206,206,"Ambiguous","Consistent",206
@@ -245,7 +245,7 @@
 "33127","Native",11,38,"wrap_up","tt","wrap_up tt",8,0,338,338,"Unambiguous","Inconsistent",338
 "33129","Native",11,26,"wrap_up","tt","wrap_up tt",8,0,260,260,"Unambiguous","Inconsistent",260
 "33131","Native",11,42,"wrap_up","tt","wrap_up tt",8,0,170,170,"Unambiguous","Inconsistent",170
-"33133","Native",11,46,"wrap_up","tt","wrap_up tt",8,1,0,NA,"Unambiguous","Inconsistent",NA
+"33133","Native",11,46,"wrap_up","tt","wrap_up tt",8,0,170,170,"Unambiguous","Inconsistent",170
 "33135","Native",11,41,"wrap_up","tt","wrap_up tt",7,0,224,224,"Ambiguous","Inconsistent",224
 "33137","Native",11,31,"wrap_up","tt","wrap_up tt",5,1,0,NA,"Ambiguous","Consistent",NA
 "33139","Native",11,45,"wrap_up","tt","wrap_up tt",7,0,328,328,"Ambiguous","Inconsistent",328
@@ -267,7 +267,7 @@
 "33171","Native",12,43,"wrap_up","tt","wrap_up tt",8,0,170,170,"Unambiguous","Inconsistent",170
 "33173","Native",12,25,"wrap_up","tt","wrap_up tt",6,0,316,316,"Unambiguous","Consistent",316
 "33175","Native",12,26,"wrap_up","tt","wrap_up tt",7,1,0,NA,"Ambiguous","Inconsistent",NA
-"33177","Native",12,46,"wrap_up","tt","wrap_up tt",7,1,0,NA,"Ambiguous","Inconsistent",NA
+"33177","Native",12,46,"wrap_up","tt","wrap_up tt",7,0,276,276,"Ambiguous","Inconsistent",276
 "33179","Native",12,31,"wrap_up","tt","wrap_up tt",8,0,156,156,"Unambiguous","Inconsistent",156
 "33181","Native",12,39,"wrap_up","tt","wrap_up tt",8,0,406,406,"Unambiguous","Inconsistent",406
 "33183","Native",12,38,"wrap_up","tt","wrap_up tt",7,0,154,154,"Ambiguous","Inconsistent",154
@@ -319,7 +319,7 @@
 "33276","Native",14,45,"wrap_up","tt","wrap_up tt",5,0,355,355,"Ambiguous","Consistent",355
 "33278","Native",14,25,"wrap_up","tt","wrap_up tt",5,0,223,223,"Ambiguous","Consistent",223
 "33280","Native",14,48,"wrap_up","tt","wrap_up tt",8,0,293,293,"Unambiguous","Inconsistent",293
-"33282","Native",14,46,"wrap_up","tt","wrap_up tt",6,1,0,NA,"Unambiguous","Consistent",NA
+"33282","Native",14,46,"wrap_up","tt","wrap_up tt",6,0,340,340,"Unambiguous","Consistent",340
 "33284","Native",14,33,"wrap_up","tt","wrap_up tt",5,0,438,438,"Ambiguous","Consistent",438
 "33286","Native",14,26,"wrap_up","tt","wrap_up tt",6,0,979,979,"Unambiguous","Consistent",979
 "33288","Native",14,37,"wrap_up","tt","wrap_up tt",5,0,192,192,"Ambiguous","Consistent",192
@@ -351,7 +351,7 @@
 "33339","Native",15,30,"wrap_up","tt","wrap_up tt",7,0,190,190,"Ambiguous","Inconsistent",190
 "33341","Native",15,48,"wrap_up","tt","wrap_up tt",5,0,246,246,"Ambiguous","Consistent",246
 "33343","Native",15,45,"wrap_up","tt","wrap_up tt",6,0,129,129,"Unambiguous","Consistent",129
-"33345","Native",15,46,"wrap_up","tt","wrap_up tt",7,1,0,NA,"Ambiguous","Inconsistent",NA
+"33345","Native",15,46,"wrap_up","tt","wrap_up tt",7,0,206,206,"Ambiguous","Inconsistent",206
 "33347","Native",15,37,"wrap_up","tt","wrap_up tt",6,0,155,155,"Unambiguous","Consistent",155
 "33349","Native",15,36,"wrap_up","tt","wrap_up tt",5,0,839,839,"Ambiguous","Consistent",839
 "33351","Native",15,29,"wrap_up","tt","wrap_up tt",6,0,453,453,"Unambiguous","Consistent",453
@@ -392,7 +392,7 @@
 "33421","Native",17,43,"wrap_up","tt","wrap_up tt",6,0,425,425,"Unambiguous","Consistent",425
 "33423","Native",17,25,"wrap_up","tt","wrap_up tt",8,0,595,595,"Unambiguous","Inconsistent",595
 "33425","Native",17,38,"wrap_up","tt","wrap_up tt",5,0,216,216,"Ambiguous","Consistent",216
-"33427","Native",17,46,"wrap_up","tt","wrap_up tt",5,1,0,NA,"Ambiguous","Consistent",NA
+"33427","Native",17,46,"wrap_up","tt","wrap_up tt",5,0,197,197,"Ambiguous","Consistent",197
 "33429","Native",17,40,"wrap_up","tt","wrap_up tt",7,0,267,267,"Ambiguous","Inconsistent",267
 "33431","Native",17,37,"wrap_up","tt","wrap_up tt",8,0,786,786,"Unambiguous","Inconsistent",786
 "33433","Native",17,41,"wrap_up","tt","wrap_up tt",8,0,422,422,"Unambiguous","Inconsistent",422
@@ -413,7 +413,7 @@
 "33464","Native",18,40,"wrap_up","tt","wrap_up tt",8,0,603,603,"Unambiguous","Inconsistent",603
 "33466","Native",18,33,"wrap_up","tt","wrap_up tt",5,0,563,563,"Ambiguous","Consistent",563
 "33468","Native",18,42,"wrap_up","tt","wrap_up tt",6,0,378,378,"Unambiguous","Consistent",378
-"33470","Native",18,46,"wrap_up","tt","wrap_up tt",6,1,0,NA,"Unambiguous","Consistent",NA
+"33470","Native",18,46,"wrap_up","tt","wrap_up tt",6,0,318,318,"Unambiguous","Consistent",318
 "33472","Native",18,30,"wrap_up","tt","wrap_up tt",6,0,266,266,"Unambiguous","Consistent",266
 "33474","Native",18,27,"wrap_up","tt","wrap_up tt",7,0,591,591,"Ambiguous","Inconsistent",591
 "33476","Native",18,47,"wrap_up","tt","wrap_up tt",7,0,430,430,"Ambiguous","Inconsistent",430
@@ -471,7 +471,7 @@
 "33579","Native",20,43,"wrap_up","tt","wrap_up tt",5,0,316,316,"Ambiguous","Consistent",316
 "33581","Native",20,33,"wrap_up","tt","wrap_up tt",7,0,852,852,"Ambiguous","Inconsistent",852
 "33583","Native",20,41,"wrap_up","tt","wrap_up tt",7,0,157,157,"Ambiguous","Inconsistent",157
-"33585","Native",20,46,"wrap_up","tt","wrap_up tt",8,1,0,NA,"Unambiguous","Inconsistent",NA
+"33585","Native",20,46,"wrap_up","tt","wrap_up tt",8,0,130,130,"Unambiguous","Inconsistent",130
 "33587","Native",20,39,"wrap_up","tt","wrap_up tt",5,0,256,256,"Ambiguous","Consistent",256
 "33589","Native",20,35,"wrap_up","tt","wrap_up tt",5,1,0,NA,"Ambiguous","Consistent",NA
 "33591","Native",20,31,"wrap_up","tt","wrap_up tt",5,0,432,432,"Ambiguous","Consistent",432
@@ -497,7 +497,7 @@
 "33632","Native",21,25,"wrap_up","tt","wrap_up tt",8,0,838,838,"Unambiguous","Inconsistent",838
 "33634","Native",21,37,"wrap_up","tt","wrap_up tt",8,0,400,400,"Unambiguous","Inconsistent",400
 "33636","Native",21,27,"wrap_up","tt","wrap_up tt",6,0,474,474,"Unambiguous","Consistent",474
-"33638","Native",21,46,"wrap_up","tt","wrap_up tt",5,1,0,NA,"Ambiguous","Consistent",NA
+"33638","Native",21,46,"wrap_up","tt","wrap_up tt",5,0,224,224,"Ambiguous","Consistent",224
 "33640","Native",21,42,"wrap_up","tt","wrap_up tt",5,0,486,486,"Ambiguous","Consistent",486
 "33642","Native",21,45,"wrap_up","tt","wrap_up tt",8,0,514,514,"Unambiguous","Inconsistent",514
 "33644","Native",21,35,"wrap_up","tt","wrap_up tt",6,0,154,154,"Unambiguous","Consistent",154
@@ -564,7 +564,7 @@
 "33766","Native",24,31,"wrap_up","tt","wrap_up tt",8,0,713,713,"Unambiguous","Inconsistent",713
 "33768","Native",24,32,"wrap_up","tt","wrap_up tt",5,0,428,428,"Ambiguous","Consistent",428
 "33770","Native",24,30,"wrap_up","tt","wrap_up tt",7,0,86,86,"Ambiguous","Inconsistent",86
-"33772","Native",24,46,"wrap_up","tt","wrap_up tt",7,1,0,NA,"Ambiguous","Inconsistent",NA
+"33772","Native",24,46,"wrap_up","tt","wrap_up tt",7,0,392,392,"Ambiguous","Inconsistent",392
 "33774","Native",24,35,"wrap_up","tt","wrap_up tt",8,0,133,133,"Unambiguous","Inconsistent",133
 "33776","Native",24,37,"wrap_up","tt","wrap_up tt",6,0,575,575,"Unambiguous","Consistent",575
 "33778","Native",24,25,"wrap_up","tt","wrap_up tt",6,0,490,490,"Unambiguous","Consistent",490
@@ -577,7 +577,7 @@
 "33792","Native",24,26,"wrap_up","tt","wrap_up tt",7,0,826,826,"Ambiguous","Inconsistent",826
 "33794","Native",25,48,"wrap_up","tt","wrap_up tt",6,1,0,NA,"Unambiguous","Consistent",NA
 "33796","Native",25,28,"wrap_up","tt","wrap_up tt",6,0,1358,1358,"Unambiguous","Consistent",1358
-"33798","Native",25,46,"wrap_up","tt","wrap_up tt",8,1,0,NA,"Unambiguous","Inconsistent",NA
+"33798","Native",25,46,"wrap_up","tt","wrap_up tt",8,0,241,241,"Unambiguous","Inconsistent",241
 "33800","Native",25,27,"wrap_up","tt","wrap_up tt",5,0,525,525,"Ambiguous","Consistent",525
 "33802","Native",25,25,"wrap_up","tt","wrap_up tt",7,0,535,535,"Ambiguous","Inconsistent",535
 "33804","Native",25,43,"wrap_up","tt","wrap_up tt",5,0,162,162,"Ambiguous","Consistent",162
@@ -603,7 +603,7 @@
 "33843","Native",26,33,"wrap_up","tt","wrap_up tt",8,0,289,289,"Unambiguous","Inconsistent",289
 "33845","Native",26,30,"wrap_up","tt","wrap_up tt",5,0,436,436,"Ambiguous","Consistent",436
 "33847","Native",26,42,"wrap_up","tt","wrap_up tt",5,0,259,259,"Ambiguous","Consistent",259
-"33849","Native",26,46,"wrap_up","tt","wrap_up tt",5,1,0,NA,"Ambiguous","Consistent",NA
+"33849","Native",26,46,"wrap_up","tt","wrap_up tt",5,0,92,92,"Ambiguous","Consistent",92
 "33851","Native",26,29,"wrap_up","tt","wrap_up tt",8,0,239,239,"Unambiguous","Inconsistent",239
 "33853","Native",26,28,"wrap_up","tt","wrap_up tt",7,0,214,214,"Ambiguous","Inconsistent",214
 "33855","Native",26,31,"wrap_up","tt","wrap_up tt",6,0,119,119,"Unambiguous","Consistent",119
@@ -639,7 +639,7 @@
 "33915","Native",27,30,"wrap_up","tt","wrap_up tt",6,0,433,433,"Unambiguous","Consistent",433
 "33917","Native",27,45,"wrap_up","tt","wrap_up tt",5,0,101,101,"Ambiguous","Consistent",101
 "33919","Native",27,43,"wrap_up","tt","wrap_up tt",7,0,339,339,"Ambiguous","Inconsistent",339
-"33921","Native",27,46,"wrap_up","tt","wrap_up tt",6,1,0,NA,"Unambiguous","Consistent",NA
+"33921","Native",27,46,"wrap_up","tt","wrap_up tt",6,0,629,629,"Unambiguous","Consistent",629
 "33923","Native",27,42,"wrap_up","tt","wrap_up tt",6,0,296,296,"Unambiguous","Consistent",296
 "33925","Native",27,39,"wrap_up","tt","wrap_up tt",7,0,290,290,"Ambiguous","Inconsistent",290
 "33927","Native",27,29,"wrap_up","tt","wrap_up tt",5,0,327,327,"Ambiguous","Consistent",327
@@ -657,7 +657,7 @@
 "33951","Native",28,41,"wrap_up","tt","wrap_up tt",6,0,192,192,"Unambiguous","Consistent",192
 "33953","Native",28,32,"wrap_up","tt","wrap_up tt",5,1,0,NA,"Ambiguous","Consistent",NA
 "33955","Native",28,35,"wrap_up","tt","wrap_up tt",8,1,0,NA,"Unambiguous","Inconsistent",NA
-"33957","Native",28,46,"wrap_up","tt","wrap_up tt",7,1,0,NA,"Ambiguous","Inconsistent",NA
+"33957","Native",28,46,"wrap_up","tt","wrap_up tt",7,0,334,334,"Ambiguous","Inconsistent",334
 "33959","Native",28,40,"wrap_up","tt","wrap_up tt",5,0,258,258,"Ambiguous","Consistent",258
 "33961","Native",28,31,"wrap_up","tt","wrap_up tt",8,0,356,356,"Unambiguous","Inconsistent",356
 "33963","Native",28,48,"wrap_up","tt","wrap_up tt",5,0,380,380,"Ambiguous","Consistent",380
@@ -687,7 +687,7 @@
 "34012","Native",29,31,"wrap_up","tt","wrap_up tt",5,0,90,90,"Ambiguous","Consistent",90
 "34014","Native",29,36,"wrap_up","tt","wrap_up tt",6,0,560,560,"Unambiguous","Consistent",560
 "34016","Native",29,38,"wrap_up","tt","wrap_up tt",8,0,98,98,"Unambiguous","Inconsistent",98
-"34018","Native",29,46,"wrap_up","tt","wrap_up tt",8,1,0,NA,"Unambiguous","Inconsistent",NA
+"34018","Native",29,46,"wrap_up","tt","wrap_up tt",8,0,164,164,"Unambiguous","Inconsistent",164
 "34020","Native",29,39,"wrap_up","tt","wrap_up tt",5,0,482,482,"Ambiguous","Consistent",482
 "34022","Native",29,35,"wrap_up","tt","wrap_up tt",5,0,256,256,"Ambiguous","Consistent",256
 "34024","Native",29,41,"wrap_up","tt","wrap_up tt",7,0,510,510,"Ambiguous","Inconsistent",510
@@ -702,7 +702,7 @@
 "34042","Native",30,30,"wrap_up","tt","wrap_up tt",5,0,346,346,"Ambiguous","Consistent",346
 "34044","Native",30,41,"wrap_up","tt","wrap_up tt",8,0,198,198,"Unambiguous","Inconsistent",198
 "34046","Native",30,31,"wrap_up","tt","wrap_up tt",6,0,332,332,"Unambiguous","Consistent",332
-"34048","Native",30,46,"wrap_up","tt","wrap_up tt",5,1,0,NA,"Ambiguous","Consistent",NA
+"34048","Native",30,46,"wrap_up","tt","wrap_up tt",5,0,196,196,"Ambiguous","Consistent",196
 "34050","Native",30,27,"wrap_up","tt","wrap_up tt",6,0,190,190,"Unambiguous","Consistent",190
 "34052","Native",30,43,"wrap_up","tt","wrap_up tt",6,0,118,118,"Unambiguous","Consistent",118
 "34054","Native",30,37,"wrap_up","tt","wrap_up tt",8,0,520,520,"Unambiguous","Inconsistent",520
@@ -780,7 +780,7 @@
 "34198","Native",33,47,"wrap_up","tt","wrap_up tt",5,0,412,412,"Ambiguous","Consistent",412
 "34200","Native",33,43,"wrap_up","tt","wrap_up tt",5,0,630,630,"Ambiguous","Consistent",630
 "34202","Native",33,28,"wrap_up","tt","wrap_up tt",6,0,462,462,"Unambiguous","Consistent",462
-"34204","Native",33,46,"wrap_up","tt","wrap_up tt",8,1,0,NA,"Unambiguous","Inconsistent",NA
+"34204","Native",33,46,"wrap_up","tt","wrap_up tt",8,0,556,556,"Unambiguous","Inconsistent",556
 "34206","Native",33,38,"wrap_up","tt","wrap_up tt",8,0,344,344,"Unambiguous","Inconsistent",344
 "34208","Native",33,44,"wrap_up","tt","wrap_up tt",6,0,324,324,"Unambiguous","Consistent",324
 "34210","Native",33,33,"wrap_up","tt","wrap_up tt",7,0,412,412,"Ambiguous","Inconsistent",412
@@ -809,7 +809,7 @@
 "34255","Native",34,34,"wrap_up","tt","wrap_up tt",5,0,138,138,"Ambiguous","Consistent",138
 "34257","Native",34,35,"wrap_up","tt","wrap_up tt",6,0,249,249,"Unambiguous","Consistent",249
 "34259","Native",34,37,"wrap_up","tt","wrap_up tt",8,0,860,860,"Unambiguous","Inconsistent",860
-"34261","Native",34,46,"wrap_up","tt","wrap_up tt",5,1,0,NA,"Ambiguous","Consistent",NA
+"34261","Native",34,46,"wrap_up","tt","wrap_up tt",5,0,190,190,"Ambiguous","Consistent",190
 "34263","Native",34,36,"wrap_up","tt","wrap_up tt",7,0,830,830,"Ambiguous","Inconsistent",830
 "34265","Native",34,33,"wrap_up","tt","wrap_up tt",8,0,183,183,"Unambiguous","Inconsistent",183
 "34267","Native",34,42,"wrap_up","tt","wrap_up tt",5,0,235,235,"Ambiguous","Consistent",235
@@ -825,7 +825,7 @@
 "34288","Native",35,33,"wrap_up","tt","wrap_up tt",8,0,722,722,"Unambiguous","Inconsistent",722
 "34290","Native",35,29,"wrap_up","tt","wrap_up tt",8,0,448,448,"Unambiguous","Inconsistent",448
 "34292","Native",35,41,"wrap_up","tt","wrap_up tt",8,0,222,222,"Unambiguous","Inconsistent",222
-"34294","Native",35,46,"wrap_up","tt","wrap_up tt",5,1,0,NA,"Ambiguous","Consistent",NA
+"34294","Native",35,46,"wrap_up","tt","wrap_up tt",5,0,368,368,"Ambiguous","Consistent",368
 "34296","Native",35,45,"wrap_up","tt","wrap_up tt",8,0,372,372,"Unambiguous","Inconsistent",372
 "34298","Native",35,39,"wrap_up","tt","wrap_up tt",6,0,542,542,"Unambiguous","Consistent",542
 "34300","Native",35,28,"wrap_up","tt","wrap_up tt",7,0,458,458,"Ambiguous","Inconsistent",458
@@ -854,7 +854,7 @@
 "34346","Native",36,32,"wrap_up","tt","wrap_up tt",8,0,1049,1049,"Unambiguous","Inconsistent",1049
 "34348","Native",36,34,"wrap_up","tt","wrap_up tt",6,0,323,323,"Unambiguous","Consistent",323
 "34350","Native",36,36,"wrap_up","tt","wrap_up tt",8,0,791,791,"Unambiguous","Inconsistent",791
-"34352","Native",36,46,"wrap_up","tt","wrap_up tt",6,1,0,NA,"Unambiguous","Consistent",NA
+"34352","Native",36,46,"wrap_up","tt","wrap_up tt",6,0,97,97,"Unambiguous","Consistent",97
 "34354","Native",36,39,"wrap_up","tt","wrap_up tt",7,0,323,323,"Ambiguous","Inconsistent",323
 "34356","Native",36,27,"wrap_up","tt","wrap_up tt",7,0,531,531,"Ambiguous","Inconsistent",531
 "34358","Native",36,33,"wrap_up","tt","wrap_up tt",5,0,275,275,"Ambiguous","Consistent",275
@@ -865,7 +865,7 @@
 "34368","Native",36,48,"wrap_up","tt","wrap_up tt",8,0,877,877,"Unambiguous","Inconsistent",877
 "34370","Native",37,26,"wrap_up","tt","wrap_up tt",7,0,723,723,"Ambiguous","Inconsistent",723
 "34372","Native",37,45,"wrap_up","tt","wrap_up tt",6,0,191,191,"Unambiguous","Consistent",191
-"34374","Native",37,46,"wrap_up","tt","wrap_up tt",7,1,0,NA,"Ambiguous","Inconsistent",NA
+"34374","Native",37,46,"wrap_up","tt","wrap_up tt",7,0,506,506,"Ambiguous","Inconsistent",506
 "34376","Native",37,43,"wrap_up","tt","wrap_up tt",8,0,403,403,"Unambiguous","Inconsistent",403
 "34378","Native",37,31,"wrap_up","tt","wrap_up tt",8,0,264,264,"Unambiguous","Inconsistent",264
 "34380","Native",37,29,"wrap_up","tt","wrap_up tt",6,0,350,350,"Unambiguous","Consistent",350
@@ -888,7 +888,7 @@
 "34414","Native",37,41,"wrap_up","tt","wrap_up tt",6,0,135,135,"Unambiguous","Consistent",135
 "34416","Native",37,33,"wrap_up","tt","wrap_up tt",6,0,346,346,"Unambiguous","Consistent",346
 "34417","Native",38,39,"wrap_up","tt","wrap_up tt",5,0,235,235,"Ambiguous","Consistent",235
-"34419","Native",38,46,"wrap_up","tt","wrap_up tt",8,1,0,NA,"Unambiguous","Inconsistent",NA
+"34419","Native",38,46,"wrap_up","tt","wrap_up tt",8,0,523,523,"Unambiguous","Inconsistent",523
 "34421","Native",38,25,"wrap_up","tt","wrap_up tt",7,0,418,418,"Ambiguous","Inconsistent",418
 "34423","Native",38,27,"wrap_up","tt","wrap_up tt",5,0,133,133,"Ambiguous","Consistent",133
 "34425","Native",38,32,"wrap_up","tt","wrap_up tt",6,1,0,NA,"Unambiguous","Consistent",NA
@@ -917,7 +917,7 @@
 "34471","Native",39,34,"wrap_up","tt","wrap_up tt",5,0,1379,1379,"Ambiguous","Consistent",1379
 "34473","Native",39,31,"wrap_up","tt","wrap_up tt",6,0,284,284,"Unambiguous","Consistent",284
 "34475","Native",39,39,"wrap_up","tt","wrap_up tt",6,0,584,584,"Unambiguous","Consistent",584
-"34477","Native",39,46,"wrap_up","tt","wrap_up tt",5,1,0,NA,"Ambiguous","Consistent",NA
+"34477","Native",39,46,"wrap_up","tt","wrap_up tt",5,0,440,440,"Ambiguous","Consistent",440
 "34479","Native",39,40,"wrap_up","tt","wrap_up tt",7,0,227,227,"Ambiguous","Inconsistent",227
 "34481","Native",39,43,"wrap_up","tt","wrap_up tt",6,1,0,NA,"Unambiguous","Consistent",NA
 "34483","Native",39,47,"wrap_up","tt","wrap_up tt",6,1,0,NA,"Unambiguous","Consistent",NA
@@ -956,6 +956,6 @@
 "34550","Native",40,29,"wrap_up","tt","wrap_up tt",5,0,378,378,"Ambiguous","Consistent",378
 "34552","Native",40,33,"wrap_up","tt","wrap_up tt",5,0,123,123,"Ambiguous","Consistent",123
 "34554","Native",40,44,"wrap_up","tt","wrap_up tt",8,0,645,645,"Unambiguous","Inconsistent",645
-"34556","Native",40,46,"wrap_up","tt","wrap_up tt",6,1,0,NA,"Unambiguous","Consistent",NA
+"34556","Native",40,46,"wrap_up","tt","wrap_up tt",6,0,127,127,"Unambiguous","Consistent",127
 "34558","Native",40,41,"wrap_up","tt","wrap_up tt",5,0,163,163,"Ambiguous","Consistent",163
 "34560","Native",40,35,"wrap_up","tt","wrap_up tt",7,1,0,NA,"Ambiguous","Inconsistent",NA
